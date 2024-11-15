@@ -1,0 +1,86 @@
+@charset "ISO-8859-1";
+a:link{
+color:	white;
+}
+a:visited{
+color: brown;	
+}
+a:hover{
+	color: black;
+}
+table.details{
+	width:400px;
+	height: 400px;
+	background-color:white;
+	color: black;
+	margin: 100px;
+	
+}
+input {
+	color: black;
+	font-size: 15px;
+	font-family: Comic Sans Ms;
+	background-color: transparent;
+	border-style: solid;
+	border-radius: 4px;
+	border: none;
+	outline: none;
+	height: 40px;
+	border-bottom: 1px solid #fff;
+}
+
+body.bgimg {
+  background-image: url("/collegepo/images/fform.jpg");
+}
+.ffdiv{
+	width: 400px;
+	height: 550px;
+	background-color: #8df3fc;
+	color: blue;
+	margin-left: 400px;
+	margin-right:100px ;
+	margin-top: 5%;
+	border-radius: 20px;
+	border-color: blue;
+}
+.details{
+	width:400px;
+	height: 250px;
+	background-color:transparent;
+	color: black;
+	margin-left: 40px;
+	margin-top:  50px;
+	border-radius: 10px;
+}
+
+.button1
+{
+margin-top: 15px;
+margin-left: 140px;
+background-color: black;
+border-radius: 5px;
+border: black;
+color: blue;
+padding: 5px 12px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+/* .loginbox{
+	width: 400px;
+	height: 400px;
+	color: blue;
+	background-image: url('/collegeportal/images/div.jpg');
+	margin-left: 800px;
+	margin-right:200px ;
+	margin-top: 90px;
+	border-radius: 20px;
+	border-color: black;
+	
+}
+.logbg {
+  background-image: url("/collegeportal/images/log1.png");
+  background-repeat: none;
+}
+ */
